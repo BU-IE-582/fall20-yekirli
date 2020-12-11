@@ -1,6 +1,6 @@
 # Example Progress Journal
 
-## Homework 0
+## Homework 0 - Free Phyton Tutorials
 
 [Here](Files/example_homework_0.html) is 5 interesting Phyton Tutorials.
 
