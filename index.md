@@ -12,4 +12,6 @@ You can find the homework from this [link](HW%201%20-%20English%20Premier%20Leag
 
 You can find the homework from this [link](HW2%20-%20Gestures/IE%20582%20-%20HW2%20-%20Gestures.html)
 
+## Homework 3 - Electric Consumption Predictions
 
+You can find the homework from this [link](HW3%20-%20Electric%20Consumption%20Predictions/IE%20582%20HW%203.html)
