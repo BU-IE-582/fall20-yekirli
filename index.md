@@ -1,4 +1,4 @@
-# Yunus Emre Kırlı's Progress Journal
+# YEK's Progress Journal
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
