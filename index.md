@@ -1,4 +1,6 @@
-# Example Progress Journal
+# Yunus Emre Kırlı's Progress Journal
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 ## Homework 0 - Free Phyton Tutorials
 
@@ -36,15 +38,11 @@ You can find the homework from this [link](HW4%20-%20Best%20Parameters/IE%20582%
 Here is the [link](https://archive.ics.uci.edu/ml/datasets/Student+Performance) of the data set
 
 #### Information:
-Associated Tasks          : Regression Problem
-
-Number of Instances       : 649
-
-Number of Attributes      : 33
-
-Attribute Characteristic  : Categorical, Integer
-
-Missing Values            : No
+* Associated Tasks          : Regression Problem
+* Number of Instances       : 649
+* Number of Attributes      : 33
+* Attribute Characteristic  : Categorical, Integer
+* issing Values            : No
 
 ### Data Set 3: Diabetes 130-US Hospitals for Year 1999-2008
 You can find the homework from this [link](HW4%20-%20Best%20Parameters/IE%20582%20Homework%204%20-%20Diabetes%20v2.html)
@@ -55,17 +53,12 @@ For the futher information here are the related [article](https://www.hindawi.co
 
 
 #### Information:
-Associated Tasks          : Classification Problem
-
-Class                     : Multi-Class
-
-Number of Instances       : 100.000
-
-Number of Attributes      : 55
-
-Attribute Characteristic  : Categorical, Ordinal, Integer
-
-Missing Values            : Yes
+* Associated Tasks          : Classification Problem
+* Class                     : Multi-Class
+* Number of Instances       : 100.000
+* Number of Attributes      : 55
+* Attribute Characteristic  : Categorical, Ordinal, Integer
+* Missing Values            : Yes
 
 ### Data Set 4: Optical Recognition of Handwritten Digits 
 You can find the homework from this [link](HW4%20-%20Best%20Parameters/IE%20582%20Homework%204%20-
@@ -75,15 +68,9 @@ Here is the [link](http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of
 the data set
 
 #### Information:
-
-Associated Tasks          : Classification Problem
-
-Class                     : Multi-Class
-
-Number of Instances       : 5.620
-
-Number of Attributes      : 64
-
-Attribute Characteristic  : Categorical, Integer
-
-Missing Values            : No
+* Associated Tasks          : Classification Problem
+* Class                     : Multi-Class
+* Number of Instances       : 5.620
+* Number of Attributes      : 64
+* Attribute Characteristic  : Categorical, Integer
+* Missing Values            : No
