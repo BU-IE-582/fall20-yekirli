@@ -24,12 +24,15 @@ You can find the homework from this [link](HW4%20-%20Best%20Parameters/IE%20582%
 Here is the [link](https://www.kaggle.com/blastchar/telco-customer-churn) of the data set
 
 #### Information:
+Associated Tasks          : Classification Problem
 
-Associated Tasks          : Classification Problem \n
-Number of Instances       : 7.043 \n
-Number of Attributes      : 21 \n
-Attribute Characteristic  : Categorical, Integer \n
-Missing Values            : No \n
+Number of Instances       : 7.043
+
+Number of Attributes      : 21
+
+Attribute Characteristic  : Categorical, Integer
+
+Missing Values            : No
 
 ### Data Set 2: Student Performance
 You can find the homework from this [link](HW4%20-%20Best%20Parameters/IE%20582%20Homework%204%20-%20Student%20Performance.html)
@@ -37,7 +40,6 @@ You can find the homework from this [link](HW4%20-%20Best%20Parameters/IE%20582%
 Here is the [link](https://archive.ics.uci.edu/ml/datasets/Student+Performance) of the data set
 
 #### Information:
-
 Associated Tasks          : Regression Problem
 
 Number of Instances       : 649
@@ -49,7 +51,6 @@ Attribute Characteristic  : Categorical, Integer
 Missing Values            : No
 
 ### Data Set 3: Diabetes 130-US Hospitals for Year 1999-2008
-
 You can find the homework from this [link](HW4%20-%20Best%20Parameters/IE%20582%20Homework%204%20-%20Diabetes%20v2.html)
 
 Here is the [link](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008#) of the data set
@@ -58,7 +59,6 @@ For the futher information here are the related [article](https://www.hindawi.co
 
 
 #### Information:
-
 Associated Tasks          : Classification Problem
 
 Class                     : Multi-Class
@@ -72,7 +72,6 @@ Attribute Characteristic  : Categorical, Ordinal, Integer
 Missing Values            : Yes
 
 ### Data Set 4: Optical Recognition of Handwritten Digits 
-
 You can find the homework from this [link](HW4%20-%20Best%20Parameters/IE%20582%20Homework%204%20-
 %20Optic.html)
 
