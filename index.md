@@ -1,6 +1,6 @@
 # YEK's Progress Journal
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](/images/spiderman.png)
+Format: ![Alt Text](spiderman.png)
 
 ## Homework 0 - Free Phyton Tutorials
 
