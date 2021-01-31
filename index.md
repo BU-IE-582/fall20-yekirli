@@ -1,6 +1,7 @@
 # YEK's Progress Journal
 
-##Work hard, play hard!
+## Work hard!
+Here is the [link](https://www.youtube.com/watch?v=x9wn633vl_c&ab_channel=MoSelimArt) for the fun time.
 ![GitHub Logo](spiderman.png)
 
 
