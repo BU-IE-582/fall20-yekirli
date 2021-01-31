@@ -1,6 +1,9 @@
 # YEK's Progress Journal
 
-Work hard, play hard! [Alt Text](spiderman.png)
+##Work hard, play hard!
+![GitHub Logo](spiderman.png)
+
+
 
 ## Homework 0 - Free Phyton Tutorials
 
