@@ -1,6 +1,7 @@
 # YEK's Progress Journal
-![Work hard](spiderman.png)
-Format: ![Alt Text](spiderman.png)
+
+Work hard, play hard!
+[Alt Text](spiderman.png)
 
 ## Homework 0 - Free Phyton Tutorials
 
