@@ -25,15 +25,11 @@ Here is the [link](https://www.kaggle.com/blastchar/telco-customer-churn) of the
 
 #### Information:
 
-Associated Tasks          : Classification Problem
-
-Number of Instances       : 7.043
-
-Number of Attributes      : 21
-
-Attribute Characteristic  : Categorical, Integer
-
-Missing Values            : No
+Associated Tasks          : Classification Problem \n
+Number of Instances       : 7.043 \n
+Number of Attributes      : 21 \n
+Attribute Characteristic  : Categorical, Integer \n
+Missing Values            : No \n
 
 ### Data Set 2: Student Performance
 You can find the homework from this [link](HW4%20-%20Best%20Parameters/IE%20582%20Homework%204%20-%20Student%20Performance.html)
