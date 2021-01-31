@@ -61,8 +61,7 @@ For the futher information here are the related [article](https://www.hindawi.co
 * Missing Values            : Yes
 
 ### Data Set 4: Optical Recognition of Handwritten Digits 
-You can find the homework from this [link](HW4%20-%20Best%20Parameters/IE%20582%20Homework%204%20-
-%20Optic.html)
+You can find the homework from this [link](HW4%20-%20Best%20Parameters/IE%20582%20Homework%204%20-%20Optic.html)
 
 Here is the [link](http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits) of 
 the data set
