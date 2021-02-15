@@ -80,4 +80,4 @@ the data set
 
 ## Frankeinstein - Term Project: Binary Classification for Unnamed Data
 
-You can find the homework from this [link](fall20-yekirli/blob/gh-pages/Project/IE_582_Final_Project_Frankenstein.html)
+You can find the homework from this [link](https://bu-ie-582.github.io/fall20-yekirli/Project/IE_582_Final_Project_Frankenstein.html)
